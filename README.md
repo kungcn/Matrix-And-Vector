@@ -10,12 +10,15 @@ Maybe the following part is confusing because I just copy the previous stages' R
 *  In the Matrix class, there are three constructors and one destructor, allowing us to call the class in need. It also allows us to get the maximum, minimum, the row and the column of the matrix. And then, it can also get the size of the matrix with the form in "row column", get the specified entry.
 *  In the Vector class, it also allows us to get the norm and the dimension of the vector, which are useful in the application. Meanwhile, it helps us to know the norm of the vector, and there are also 3 constructors and 1 destructor in the class.
 *  Finally, the destrctors are called to free the memory.
+
 ### Stage 02
 * There is a Base class for vector and matrix which is intended to contain the common collections of methods and members that used for both of matrix and vector.
 * The class Vector and Matrix will get the methods as well as the members by heritance. Meanwhile, they have their unique methods respectively.
+
 ### Stage 03
 * Besides the method functions achieved in the project stage 02, which makes the class Matrix and Vector have the basic skills respectively with the inheritance from the class Base.
 * In the stage 03, polymorphism, template are used to let the codes more ample and can accept the datas with many types, like int, double and char.
+
 ### Stage 04
  There is a Base class for vector and matrix which is intended to contain the common collections of methods and members that used for both of matrix and vector.
  * The class Vector and Matrix will get the methods as well as the members by inheritance. Meanwhile, they have their unique methods respectively.
@@ -27,9 +30,11 @@ Maybe the following part is confusing because I just copy the previous stages' R
  `| 4, 5, 6 |`
  `| 7, 8, 9 |`
  * Exception appears in the the files written by myself, which helps managing the condition out of expectation.
- ### Stage 05
+ 
+### Stage 05
  * This stage codes allows us to print the result or read the matrix or the vector from a .txt file, helping the program not to get the data only through the keyboard.
 *  They are also smart classes now, because they can hear your voice if you send it through the key board, they will answer you with the addition, subtraction operation or the descending, ascending sort. 
+
 ### Stage 06
 * After finishing all the functions required by the previous documents in both the Vector and the Matrix classes, it allows us to use the codes with OpenGL. And the codes just show the change when you input some characters from the keyboard. However, unfortunately, the codes given by the TAs can not be used directly when the input is any string. So, I have no alternative but to use the characters input instead of the string one which given in the table in the document. The following table will show the relationship with the changes.
 
