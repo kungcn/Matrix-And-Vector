@@ -23,12 +23,14 @@ Maybe the following part is confusing because I just copy the previous stages' R
  There is a Base class for vector and matrix which is intended to contain the common collections of methods and members that used for both of matrix and vector.
  * The class Vector and Matrix will get the methods as well as the members by inheritance. Meanwhile, they have their unique methods respectively.
  * The input and output are different before, it is ok to get the entries of the matrix or the vector like the following form:
+
  `Sample Input`
  `1, 2, 3; 4, 5, 6; 7, 8, 9` 
 ` Sample Output`
  `| 1, 2, 3 |`
  `| 4, 5, 6 |`
  `| 7, 8, 9 |`
+
  * Exception appears in the the files written by myself, which helps managing the condition out of expectation.
  
 ### Stage 05
