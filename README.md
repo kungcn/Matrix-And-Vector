@@ -52,7 +52,3 @@ In my files, you can see the folder named src and the readme.md. In the src fold
 ## The Special things in my file
 * First of all, I want to say sorry for I don't understand the document well and some functions weren't realized. I have tested it before, but just when I input "z" or "d", then it display the result, but I don't verify the result is right or not. However, when I just input any other character mentioned as before, the display disappears but it doesn't show out another result. Say more is tear and I want to cry when I test it. Eventually, I discuss it with classmates and they told me another algorithm to realize the functions because I just displayed the final result without the process. Whereas when I tested it on the way to finish it, I found no reaction when I input something. Therefore, I just use the /* ,*/ to let such codes become the comments...
 * Although I don't finish the requirement for the reason that I don't know well on the API and the principle and time limitation, I still learn something in STL when doing the project. map and something good, I think it is good for us to do the project but it was nearly the final exam now. 
-<<<<<<< HEAD
-=======
-
->>>>>>> fa93a770567340017e28002e68c1d581529ac566
